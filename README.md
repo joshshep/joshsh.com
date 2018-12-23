@@ -9,7 +9,7 @@ Repo for hosting:
 * Synthetic records
   * Subdomain forward for www
     * Subdomain: www
-    * Destination URL: http://joshsh.com
+    * Destination URL: https://joshsh.com
     * Permanent redirect (301)
     * Forward Path
     * Enable SSL
